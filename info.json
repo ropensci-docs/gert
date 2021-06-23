@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3d5e13b3ba75acdd32c7efe3457a90b7806f7106",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-06-23 20:09:42",
+    "files": 4,
+    "merge": false,
+    "message": "Windows: fix build for ucrt toolchains\n"
+  },
+  "remote": "https://github.com/r-lib/gert.git",
+  "pkg": "gert"
+}

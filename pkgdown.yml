@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  gert: gert.html
+last_built: 2021-07-19T19:03Z
+urls:
+  reference: https://docs.ropensci.org/gert/reference
+  article: https://docs.ropensci.org/gert/articles
+
