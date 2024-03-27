@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2e1378da917260175bfcff8b24c47a8a22e300f1",
+    "author": "M-Kusumgar <98405247+M-Kusumgar@users.noreply.github.com>",
+    "time": "2024-02-26 12:17:39",
+    "files": 2,
+    "merge": false,
+    "message": "replace git_index_new with git_repository_index for ref (#212)\n\n"
+  },
+  "repo": "https://github.com/r-lib/gert",
+  "pkg": "gert"
+}
