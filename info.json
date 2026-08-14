@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4b65c470286c709b6ce3c0f8b1f28d135eb9f947",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-08-14T18:03:05Z",
+    "files": 3,
+    "merge": false,
+    "message": "Disable owner validation\n"
+  },
+  "repo": "https://github.com/r-lib/gert",
+  "pkg": "gert",
+  "time": "2026-08-14T18:36:16Z"
+}
