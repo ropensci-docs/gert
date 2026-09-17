@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "830034fc3461c5c2809456ca6be1aad7435f9938",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-09-17T09:31:45Z",
+    "files": 4,
+    "merge": false,
+    "message": "Add `https.backend` and `ssh.backend` to `libgit2_config()`\n"
+  },
+  "repo": "https://github.com/r-lib/gert",
+  "pkg": "gert",
+  "time": "2026-09-17T09:36:14Z"
+}
