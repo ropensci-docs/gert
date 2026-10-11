@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c01f6cdfbe03b0b881d9cfaba108b0d95d72a73c",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-10-11T19:57:36Z",
+    "files": 3,
+    "merge": false,
+    "message": "Throttle printf messages because RStudio lags if you have too many\n"
+  },
+  "repo": "https://github.com/r-lib/gert",
+  "pkg": "gert",
+  "time": "2026-10-11T20:30:04Z"
+}
